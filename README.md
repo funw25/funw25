@@ -4,31 +4,47 @@
 
 **Languages:** Python / C / C++ / Markdown
 
-**AI & Machine Learning:**
-Reinforcement Learning (PPO / MAPPO fundamentals) / Computer Vision / NumPy / PyTorch / Ultralytics YOLO
+**AI & Machine Learning:**  
+PyTorch / NumPy / Ultralytics YOLO / OpenCV / MediaPipe /
+Reinforcement Learning fundamentals (PPO / MAPPO)
 
-**Hardware & Embedded:**
-ESP32-S2 / ESP32-S3 / XiaoZhi voice interaction / Raspberry Pi / Arduino / basic circuit design & debugging
+**Embedded Systems:**  
+ESP32-S2 / ESP32-S3 / Raspberry Pi / Arduino /
+XiaoZhi voice interaction / Basic circuit design and debugging
 
-**Development Environment:**
-Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Anaconda / Conda
+**Tools & Environment:**  
+Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda  
 
-**Projects & Experience:**
+### Selected Projects
 
-* Trained custom object-detection models with **YOLO**, including dataset preparation, training and model export
-* Worked with **Raspberry Pi + OpenCV / MediaPipe** for computer vision applications
-* Built an **ESP32-based electronic piano** and worked on embedded hardware/software integration
-* Currently exploring **reinforcement learning**, with a focus on understanding PPO and multi-agent reinforcement learning
+- **Custom Object Detection**
+  - Prepared and annotated datasets, trained custom YOLO models, evaluated
+    detection results, and exported models for deployment.
 
-### Currently Learning
+- **Raspberry Pi Computer Vision**
+  - Built computer vision prototypes using Raspberry Pi, OpenCV, and MediaPipe.
 
-**Reinforcement Learning:** PPO → MAPPO / multi-agent reinforcement learning
+- **ESP32 Electronic Piano**
+  - Developed an ESP32-based electronic piano and worked across firmware,
+    circuitry, input handling, and audio output.
 
-**Computer Vision:** OpenCV / YOLO / MediaPipe
+- **Personalized AI Character Companion — In Progress**
+  - Designing a private, mobile-first AI companion for a single fictional
+    character.
+  - Exploring structured character profiles, source-traceable knowledge,
+    retrieval-augmented generation, controllable long-term memory, and
+    character-consistency evaluation.
+  - Planning a PWA frontend, a Python/FastAPI backend, and an optional
+    speech interface.
 
-**Programming:** Python / C++ / NumPy
+### Currently Exploring
 
-**Engineering:** Linux / Git / embedded systems
+- PPO and multi-agent reinforcement learning
+- Deploying computer vision models on edge devices
+- LLM applications, RAG, and long-term memory
+- Interaction between AI software and embedded hardware
+
+
 
 ### Some Random Facts
 
@@ -38,4 +54,4 @@ sometimes more interested in observing **people** than in coding
 
 Still figuring out what kind of engineer I want to become.
 
-**Last Updated: September 9, 2026**
+_Last updated: September 9, 2026_
