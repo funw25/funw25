@@ -1,24 +1,41 @@
-##  About me  
+## About me
 
-### Technical Skills：  
-**Languages**:Python/C/C++/Markdown  
-**Hardware & Embedded**:ESP32-S3 XiaoZhi voice interaction / Raspberry Pi / circuit-related knowledge  
-**Currently Learning (May 2026)**:Introduction to Reinforcement Learning – PPO / Computer Vision / Numpy
+### Technical Skills
 
+**Languages:** Python / C / C++ / Markdown
 
-### Some Random Facts  
-sometimes more interested in observing "people" than in coding
-非工作状态下满嘴跑火车 
+**AI & Machine Learning:**
+Reinforcement Learning (PPO / MAPPO fundamentals) / Computer Vision / NumPy / PyTorch / Ultralytics YOLO
 
-### 技术：  
-**语言**:Python/C/C++/Markdown  
-**硬件与嵌入式**:ESP32-S3小智语音交互/树莓派/电路相关   
-**正在学习（26.5）**:强化学习入门-PPO/计算机视觉/Numpy
+**Hardware & Embedded:**
+ESP32-S2 / ESP32-S3 / XiaoZhi voice interaction / Raspberry Pi / Arduino / basic circuit design & debugging
 
+**Development Environment:**
+Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Anaconda / Conda
 
-### 乱七八糟：  
-对“人”的观察兴趣有时大于对代码的兴趣      
-非工作状态下满嘴跑火车 
+**Projects & Experience:**
 
+* Trained custom object-detection models with **YOLO**, including dataset preparation, training and model export
+* Worked with **Raspberry Pi + OpenCV / MediaPipe** for computer vision applications
+* Built an **ESP32-based electronic piano** and worked on embedded hardware/software integration
+* Currently exploring **reinforcement learning**, with a focus on understanding PPO and multi-agent reinforcement learning
 
-Last Updated: May 14, 2026
+### Currently Learning
+
+**Reinforcement Learning:** PPO → MAPPO / multi-agent reinforcement learning
+
+**Computer Vision:** OpenCV / YOLO / MediaPipe
+
+**Programming:** Python / C++ / NumPy
+
+**Engineering:** Linux / Git / embedded systems
+
+### Some Random Facts
+
+sometimes more interested in observing **people** than in coding
+
+非工作状态下满嘴跑火车。
+
+Still figuring out what kind of engineer I want to become.
+
+**Last Updated: September 9, 2026**
