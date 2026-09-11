@@ -50,6 +50,7 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
 
 sometimes more interested in observing **people** than in coding
 
+大二AI专业学生。
 非工作状态下满嘴跑火车。
 
 Still figuring out what kind of engineer I want to become.
