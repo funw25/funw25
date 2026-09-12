@@ -15,7 +15,7 @@ XiaoZhi voice interaction / Basic circuit design and debugging
 **Tools & Environment:**  
 Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda  
 
-### Selected Projects
+### Projects
 
 - **Custom Object Detection**
   - Prepared and annotated datasets, trained custom YOLO models, evaluated
