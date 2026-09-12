@@ -39,7 +39,7 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
 
 ### Currently Exploring
 
-- PPO and multi-agent reinforcement learning
+- PPO and multi-agent reinforcement learning  尝试写一份MATRL入门级文档
 - Deploying computer vision models on edge devices
 - LLM applications, RAG, and long-term memory
 - Interaction between AI software and embedded hardware
