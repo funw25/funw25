@@ -5,8 +5,8 @@
 **Languages:** Python / C / C++ / Markdown
 
 **AI & Machine Learning:**  
-PyTorch / NumPy / Ultralytics YOLO / OpenCV / MediaPipe /
-Reinforcement Learning fundamentals (PPO / MAPPO)
+PyTorch / NumPy / Ultralytics YOLO / OpenCV / 
+Reinforcement Learning fundamentals
 
 **Embedded Systems:**  
 ESP32-S2 / ESP32-S3 / Raspberry Pi / Arduino /
@@ -20,9 +20,6 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
 - **Custom Object Detection**
   - Prepared and annotated datasets, trained custom YOLO models, evaluated
     detection results, and exported models for deployment.
-
-- **Raspberry Pi Computer Vision**
-  - Built computer vision prototypes using Raspberry Pi, OpenCV, and MediaPipe.
 
 - **ESP32 Electronic Piano**
   - Developed an ESP32-based electronic piano and worked across firmware,
@@ -39,10 +36,10 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
 
 ### Currently Exploring
 
-- PPO and multi-agent reinforcement learning  尝试写一份MARL入门级文档
+- multi-agent reinforcement learning  
 - Deploying computer vision models on edge devices
 - LLM applications, RAG, and long-term memory
-- Interaction between AI software and embedded hardware
+
 
 
 
@@ -50,9 +47,9 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
 
 sometimes more interested in observing **people** than in coding
 
-大二AI专业学生。
+AI专业学生。  
 非工作状态下满嘴跑火车。
 
-Still figuring out what kind of engineer I want to become.
+Still figuring out what kind of engineer I want to become.  
 
-_Last updated: September 9, 2026_
+_Last updated: September 17, 2026_
