@@ -56,4 +56,4 @@ AI专业学生。
 
 Still figuring out what kind of engineer I want to become.  
 
-_Last updated: September 17, 2026_
+_Last updated: October 18, 2026_
