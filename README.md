@@ -34,6 +34,10 @@ Linux / Ubuntu / Git / Gitee / VS Code / PyCharm / Conda
   - Planning a PWA frontend, a Python/FastAPI backend, and an optional
     speech interface.
 
+- **Modular Synthesizer — In Progress**  
+  - PC-side piano-roll sequencer (Python / PySide6) driving a CH32V-based modular synthesizer  
+    over serial; PC handles timing, firmware handles waveform, envelope, and DAC output.  
+    
 ### Currently Exploring
 
 - multi-agent reinforcement learning  
